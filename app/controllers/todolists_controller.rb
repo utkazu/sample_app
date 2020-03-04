@@ -12,7 +12,8 @@ class TodolistsController < ApplicationController
   	redirect_to('/top')
   end
 
-
+  def index
+  end
 
   private
 
